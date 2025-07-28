@@ -11,4 +11,4 @@ Asignatura: Aprendizaje Automático
 
 Semestre: 2025-1
 
-En este repositorio se estarán consignando las actividades propuestas de la materia. Todas las actividades estarán consignadas a más tardar el jueves, le imploro tenga paciencia. Estudiante en final de semestre.
+En este repositorio se estarán consignando las actividades propuestas de la materia. 
